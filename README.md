@@ -28,7 +28,7 @@ Feel free to explore more of my repositories to see the breadth of my work.
 
 - 🌐 [Portfolio Website](https://krzysztof400.github.io/portfolio-website/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/krzysztof-zaj%C4%85c-459362241/)
-- 📧 Email: [Your Email Address]
+- 📧 Email: [krzysztofzajac.official@gmail.com]
 - 📍 Based in Wrocław, Poland
 
 I'm always open to discussing new opportunities, collaborations, or just chatting about tech and development. Don't hesitate to reach out!
