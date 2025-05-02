@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Krzysztof Zając
 
 🎓 Algorithmic Computer Science student at Wrocław University of Science and Technology  
-🌍 Currently on an exchange program at ESIEE Paris  
 💻 Passionate about software development, algorithms, and building impactful projects
 
 ## 🚀 About Me
