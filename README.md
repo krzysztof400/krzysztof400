@@ -14,7 +14,7 @@ Apart from my interest in technology and science, I have a strong passion for th
 
 - **Languages:** [C++](), [Python](https://github.com/krzysztof400/university/tree/main/introduction_to_ai/emnist_dataset), [JavaScript](https://github.com/krzysztof400/university/tree/main/www_technologies/hangman-game)
 - **Frameworks & Libraries:** React, Node.js, [Express](https://github.com/krzysztof400/university/tree/main/www_technologies/rest_api)
-- **Tools & Platforms:** Git, GitHub, Linux, Visual Studio Code
+- **Tools & Platforms:** Git, Docker, Linux, Visual Studio Code
 - **Other:** [Algorithm design](https://github.com/krzysztof400/university/tree/main/algorithms_and_data_structures), [Data structures](https://github.com/krzysztof400/university/tree/main/algorithms_and_data_structures), Problem-solving
 - **Soft:** I have expirience in [youth activism and social media](https://mrmw.um.wroc.pl/), [oxford debates](https://www.facebook.com/DebateLabPWr), [foreign exchange](esiee.fr) and as a self-employed tutor (20 hours/week). Each of these experiences required — and allowed me to develop — a variety of soft skills.
 
