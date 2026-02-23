@@ -23,6 +23,6 @@ Feel free to explore more of my repositories to see the breadth of my work.
 
 - 🌐 [Portfolio Website](https://krzysztof400.github.io/portfolio-website/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/krzysztof-zaj%C4%85c-459362241/)
-- 📧 Email: [krzysztofzajac.official@gmail.com]
+- 📧 Email: krzysztofzajac.official@gmail.com
 - 📍 Based in Wrocław, Poland
 ---
